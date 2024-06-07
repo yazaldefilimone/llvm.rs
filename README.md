@@ -1,1 +1,1 @@
-The Low-Level Virtual Machine (aka LLVM) Compiler Infrastructure in Rust
+LLVM:  Low-Level Virtual Machine compiler infrastructure 
