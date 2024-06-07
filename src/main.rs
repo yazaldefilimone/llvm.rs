@@ -5,5 +5,5 @@ mod optimizer;
 mod utils;
 
 fn main() {
-    println!("Hello, world!");
+  println!("Hello, world!");
 }
