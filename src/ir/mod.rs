@@ -1,1 +1,3 @@
-pub mod instructions;
+mod instructions;
+
+pub use instructions::*;
