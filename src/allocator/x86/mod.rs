@@ -1,1 +1,3 @@
-pub mod allocator;
+mod allocator;
+
+pub use allocator::*;
