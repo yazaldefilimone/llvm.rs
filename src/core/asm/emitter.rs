@@ -1,5 +1,3 @@
-// assembly emitter
-
 pub struct ASMEmitter {}
 
 impl ASMEmitter {
