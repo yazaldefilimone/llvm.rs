@@ -1,1 +1,3 @@
-pub mod emitter;
+pub mod allocator;
+
+pub use allocator::*;
